@@ -5,6 +5,7 @@
 xcuserdata
 !src/**/build/
 local.properties
+secret.properties
 .idea
 .DS_Store
 captures
@@ -17,4 +18,3 @@ captures
 !*.xcworkspace/contents.xcworkspacedata
 **/xcshareddata/WorkspaceSettings.xcsettings
 
-./secret.properties
